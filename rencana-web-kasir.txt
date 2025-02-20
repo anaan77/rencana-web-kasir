@@ -4,3 +4,4 @@ RENCANA WEB KASIR
 - membuat menu sign-up
 - membuat daftar harga barang
 b
+c
