@@ -5,3 +5,4 @@ RENCANA WEB KASIR
 - membuat daftar harga barang
 b
 c
+d
